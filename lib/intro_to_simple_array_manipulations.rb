@@ -13,4 +13,6 @@ def using_uniq (arr1)
   arr1.uniq
 end
 
-def fl
+def flatten
+  arr1 = [arr2]
+end
