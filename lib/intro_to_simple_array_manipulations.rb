@@ -22,5 +22,5 @@ def using_flatten (c)
 end
 
 def using_delete(arr, string)
-  
+  my
 end
