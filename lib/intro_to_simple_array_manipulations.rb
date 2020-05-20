@@ -20,3 +20,7 @@ c = [1,2,a,b]
 def using_flatten (c)
   c.flatten
 end
+
+def using_delete(arr, string)
+  
+end
