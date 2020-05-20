@@ -14,5 +14,5 @@ def using_uniq (arr1)
 end
 
 def flatten
-  arr1 = [arr2]
+  arr1 = [1,2,arr2,3]
 end
