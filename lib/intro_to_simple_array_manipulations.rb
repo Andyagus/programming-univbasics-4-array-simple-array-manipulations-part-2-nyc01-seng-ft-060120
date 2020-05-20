@@ -13,7 +13,8 @@ def using_uniq (arr1)
   arr1.uniq
 end
 
+arrf = [1,2,["dogs", "cats"]3,4]
+
 def flatten
-  arr1 = [1,2,arr2,3]
-  arr1.flatten
+
 end
