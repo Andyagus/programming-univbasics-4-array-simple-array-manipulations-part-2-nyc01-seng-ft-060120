@@ -15,4 +15,5 @@ end
 
 def flatten
   arr1 = [1,2,arr2,3]
+  arr1.flatten
 end
