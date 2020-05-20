@@ -27,5 +27,5 @@ end
 
 def delete_at (arr, i)
   i = 0
-  arr[i]
+  arr.delete[i]
 end
