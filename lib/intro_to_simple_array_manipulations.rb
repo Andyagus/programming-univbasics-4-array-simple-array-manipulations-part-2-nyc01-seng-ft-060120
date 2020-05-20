@@ -17,5 +17,5 @@ a = [1,2,3,4]
 b = ["andy", "josh", "brian"]
 c = 1,2,a,b] 
 def using_flatten
-  arrf.flatten
+  c.flatten
 end
