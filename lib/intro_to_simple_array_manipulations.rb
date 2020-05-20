@@ -15,6 +15,6 @@ end
 
 arrf = [1,2,["dogs", "cats"]3,4]
 
-def flatten
-
+def using_flatten
+  arrf.flatten
 end
