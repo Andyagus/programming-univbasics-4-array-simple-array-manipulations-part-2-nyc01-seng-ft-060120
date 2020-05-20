@@ -25,7 +25,7 @@ def using_delete(arr, string)
   arr.delete(string)
 end
 
-def delete_at (arr, i)
+def using delete_at (arr, i)
   i = 0
   newarr = arr.delete_at(i)
 end
