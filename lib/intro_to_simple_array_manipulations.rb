@@ -1,3 +1,6 @@
-def using_concat(array1, array2) {
-  array1.concat(array2)
-}
+arr1 = [1,2,3,4]
+arr2 = [9,8,7,6]
+
+def using_concat (arr1, arr2)
+  
+end
